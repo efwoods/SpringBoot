@@ -9,7 +9,10 @@
             <set />
           </option>
           <option name="goals">
-            <list />
+            <list>
+              <option value="clean" />
+              <option value="package" />
+            </list>
           </option>
           <option name="pomFileName" />
           <option name="profilesMap">
